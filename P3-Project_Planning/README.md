@@ -10,12 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* frame 1   P3-Project_Planning/frame 1.JPG
+* frame 1
 * frame 2
 * frame 3
 * frame 4
 * frame 5
 
+ I couldn't figure out how to put links to the photos with the list. They are uploaded to the repo and you can click on them above.
 
 ### Project Tracker
 
@@ -25,5 +26,7 @@ https://www.pivotaltracker.com/n/projects/2238473
 
 
 ### Project Repo Link
+
+https://github.com/rgreen0502/PokerBankrollTracker.git
 
 (Include a link to your project on GitHub)
