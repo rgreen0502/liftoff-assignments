@@ -27,6 +27,6 @@ https://www.pivotaltracker.com/n/projects/2238473
 
 ### Project Repo Link
 
-https://github.com/rgreen0502/PokerBankrollTracker.git
+https://github.com/rgreen0502/bankroll-tracker.git
 
 (Include a link to your project on GitHub)
